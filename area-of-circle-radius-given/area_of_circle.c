@@ -3,10 +3,12 @@
 #include <stdio.h>
 
 int main() {
-    float radius = 3;
+    float radius = 3.0;
 
+    // Calculates area of circle
     float area = 3.14 * radius * radius;
 
+    // Outputs the area
     printf("The area of circle is %f", area);
 
     return 0;
