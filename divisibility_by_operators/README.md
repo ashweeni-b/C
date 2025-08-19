@@ -8,6 +8,7 @@ Write a program to check if a number is divisible by 2 or not.
 ### Input / Output
 - **Input:** Integer `num`
 - **Output:** 1 if number is divisible, else 0
+> Alternatively, if the number is divisible by 2 it is even and if the number is not divisible by 2 it is odd.
 
 ### Approach
 - Use of arithmetic (modulo) operator and assignment (==) operator
