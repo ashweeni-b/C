@@ -3,6 +3,8 @@
 ### Problem
 Write a program to check if a number is divisible by 2 or not.
 
+> Check if a number is even or odd.
+
 ### Input / Output
 - **Input:** Integer `num`
 - **Output:** 1 if number is divisible, else 0
